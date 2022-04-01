@@ -1,6 +1,7 @@
-package com.github.vendigo.dotastats;
+package com.github.vendigo.dotastats.model;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
+import java.util.List;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -9,11 +10,14 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public final class DotaStats {
+
+    private String periodName;
     private int totalGames;
     private double totalHoursPlayed;
     private int daysInPeriod;
+    private String period;
     private String results;
-    private double winRate;
+    private String winRate;
     private int mmrChange;
     private int daysPlayed;
     private double avgGamesPerDay;
@@ -22,6 +26,5 @@ public final class DotaStats {
     private double avgHoursPerPlayedDay;
     private int maxGamesPerDay;
     private double maxHoursPerDay;
-    private HeroStats mostPopularHero;
-    private HeroStats mostSuccessfulHero;
+    private List<HeroStats> heroStats;
 }

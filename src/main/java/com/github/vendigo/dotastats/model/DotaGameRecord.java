@@ -1,4 +1,4 @@
-package com.github.vendigo.dotastats;
+package com.github.vendigo.dotastats.model;
 
 import lombok.Getter;
 import lombok.Setter;
