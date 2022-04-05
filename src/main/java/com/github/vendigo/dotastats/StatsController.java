@@ -22,7 +22,7 @@ public class StatsController {
         return dotaStatsService.getStats(
             List.of(
                 new StatsPeriod("З від'їзду дівчат", LocalDate.of(2022, Month.MARCH, 15),
-                    LocalDate.of(2022, Month.APRIL, 1)),
+                    LocalDate.of(2022, Month.APRIL, 6)),
                 new StatsPeriod("З початку року", LocalDate.of(2022, Month.JANUARY, 1),
                     LocalDate.of(2022, Month.APRIL, 1)),
                 new StatsPeriod("Від покупки компа", LocalDate.of(2021, Month.NOVEMBER, 6),
