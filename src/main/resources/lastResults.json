@@ -1,0 +1,345 @@
+[
+  {
+    "periodName": "Після повернення до доти",
+    "totalGames": 24,
+    "totalHoursPlayed": 17.6,
+    "daysInPeriod": 17,
+    "period": "2022-08-13 - 2022-08-30",
+    "results": "14 / 10",
+    "winRate": "58%",
+    "mmrChange": 120,
+    "daysPlayed": 13,
+    "avgGamesPerDay": 1.411764705882353,
+    "avgHoursPerDay": 1.035294117647059,
+    "avgGamesPerPlayedDay": 1.8461538461538463,
+    "avgHoursPerPlayedDay": 1.353846153846154,
+    "maxGamesPerDay": 3,
+    "maxHoursPerDay": 2.216666666666667,
+    "heroStats": [
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 4,
+        "winRate": "50%",
+        "results": "2 / 2"
+      },
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 3,
+        "winRate": "0%",
+        "results": "0 / 3"
+      },
+      {
+        "hero": "Shadow Shaman",
+        "gamesPlayed": 2,
+        "winRate": "100%",
+        "results": "2 / 0"
+      },
+      {
+        "hero": "Necrophos",
+        "gamesPlayed": 2,
+        "winRate": "100%",
+        "results": "2 / 0"
+      },
+      {
+        "hero": "Viper",
+        "gamesPlayed": 1,
+        "winRate": "100%",
+        "results": "1 / 0"
+      }
+    ]
+  },
+  {
+    "periodName": "З від'їзду дівчат",
+    "totalGames": 192,
+    "totalHoursPlayed": 133.71666666666667,
+    "daysInPeriod": 168,
+    "period": "2022-03-15 - 2022-08-30",
+    "results": "103 / 89",
+    "winRate": "54%",
+    "mmrChange": 420,
+    "daysPlayed": 71,
+    "avgGamesPerDay": 1.1428571428571428,
+    "avgHoursPerDay": 0.7959325396825397,
+    "avgGamesPerPlayedDay": 2.704225352112676,
+    "avgHoursPerPlayedDay": 1.8833333333333333,
+    "maxGamesPerDay": 8,
+    "maxHoursPerDay": 5.333333333333333,
+    "heroStats": [
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 29,
+        "winRate": "52%",
+        "results": "15 / 14"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 24,
+        "winRate": "42%",
+        "results": "10 / 14"
+      },
+      {
+        "hero": "Mars",
+        "gamesPlayed": 20,
+        "winRate": "35%",
+        "results": "7 / 13"
+      },
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 14,
+        "winRate": "71%",
+        "results": "10 / 4"
+      },
+      {
+        "hero": "Axe",
+        "gamesPlayed": 12,
+        "winRate": "83%",
+        "results": "10 / 2"
+      }
+    ]
+  },
+  {
+    "periodName": "З початку року",
+    "totalGames": 261,
+    "totalHoursPlayed": 183.48333333333332,
+    "daysInPeriod": 240,
+    "period": "2022-01-02 - 2022-08-30",
+    "results": "140 / 121",
+    "winRate": "54%",
+    "mmrChange": 570,
+    "daysPlayed": 100,
+    "avgGamesPerDay": 1.0875,
+    "avgHoursPerDay": 0.7645138888888888,
+    "avgGamesPerPlayedDay": 2.61,
+    "avgHoursPerPlayedDay": 1.834833333333333,
+    "maxGamesPerDay": 8,
+    "maxHoursPerDay": 5.333333333333333,
+    "heroStats": [
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 43,
+        "winRate": "51%",
+        "results": "22 / 21"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 29,
+        "winRate": "41%",
+        "results": "12 / 17"
+      },
+      {
+        "hero": "Mars",
+        "gamesPlayed": 25,
+        "winRate": "36%",
+        "results": "9 / 16"
+      },
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 17,
+        "winRate": "71%",
+        "results": "12 / 5"
+      },
+      {
+        "hero": "Axe",
+        "gamesPlayed": 14,
+        "winRate": "71%",
+        "results": "10 / 4"
+      }
+    ]
+  },
+  {
+    "periodName": "Від покупки компа",
+    "totalGames": 353,
+    "totalHoursPlayed": 250.5,
+    "daysInPeriod": 297,
+    "period": "2021-11-06 - 2022-08-30",
+    "results": "180 / 173",
+    "winRate": "51%",
+    "mmrChange": 210,
+    "daysPlayed": 136,
+    "avgGamesPerDay": 1.1885521885521886,
+    "avgHoursPerDay": 0.8434343434343434,
+    "avgGamesPerPlayedDay": 2.5955882352941178,
+    "avgHoursPerPlayedDay": 1.8419117647058822,
+    "maxGamesPerDay": 8,
+    "maxHoursPerDay": 5.333333333333333,
+    "heroStats": [
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 56,
+        "winRate": "52%",
+        "results": "29 / 27"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 35,
+        "winRate": "40%",
+        "results": "14 / 21"
+      },
+      {
+        "hero": "Mars",
+        "gamesPlayed": 34,
+        "winRate": "38%",
+        "results": "13 / 21"
+      },
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 24,
+        "winRate": "67%",
+        "results": "16 / 8"
+      },
+      {
+        "hero": "Necrophos",
+        "gamesPlayed": 20,
+        "winRate": "50%",
+        "results": "10 / 10"
+      }
+    ]
+  },
+  {
+    "periodName": "Від народження доньки до від'їзду",
+    "totalGames": 362,
+    "totalHoursPlayed": 256.1,
+    "daysInPeriod": 345,
+    "period": "2021-04-02 - 2022-03-13",
+    "results": "166 / 196",
+    "winRate": "46%",
+    "mmrChange": -900,
+    "daysPlayed": 163,
+    "avgGamesPerDay": 1.0492753623188407,
+    "avgHoursPerDay": 0.7423188405797102,
+    "avgGamesPerPlayedDay": 2.2208588957055215,
+    "avgHoursPerPlayedDay": 1.5711656441717792,
+    "maxGamesPerDay": 5,
+    "maxHoursPerDay": 3.95,
+    "heroStats": [
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 59,
+        "winRate": "44%",
+        "results": "26 / 33"
+      },
+      {
+        "hero": "Necrophos",
+        "gamesPlayed": 34,
+        "winRate": "41%",
+        "results": "14 / 20"
+      },
+      {
+        "hero": "Mars",
+        "gamesPlayed": 29,
+        "winRate": "45%",
+        "results": "13 / 16"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 28,
+        "winRate": "46%",
+        "results": "13 / 15"
+      },
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 24,
+        "winRate": "63%",
+        "results": "15 / 9"
+      }
+    ]
+  },
+  {
+    "periodName": "Playkey",
+    "totalGames": 309,
+    "totalHoursPlayed": 215.93333333333334,
+    "daysInPeriod": 274,
+    "period": "2021-02-03 - 2021-11-04",
+    "results": "142 / 167",
+    "winRate": "46%",
+    "mmrChange": -750,
+    "daysPlayed": 138,
+    "avgGamesPerDay": 1.1277372262773722,
+    "avgHoursPerDay": 0.7880778588807786,
+    "avgGamesPerPlayedDay": 2.239130434782609,
+    "avgHoursPerPlayedDay": 1.5647342995169082,
+    "maxGamesPerDay": 6,
+    "maxHoursPerDay": 4.3,
+    "heroStats": [
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 55,
+        "winRate": "45%",
+        "results": "25 / 30"
+      },
+      {
+        "hero": "Necrophos",
+        "gamesPlayed": 29,
+        "winRate": "45%",
+        "results": "13 / 16"
+      },
+      {
+        "hero": "Mars",
+        "gamesPlayed": 27,
+        "winRate": "41%",
+        "results": "11 / 16"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 27,
+        "winRate": "56%",
+        "results": "15 / 12"
+      },
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 24,
+        "winRate": "67%",
+        "results": "16 / 8"
+      }
+    ]
+  },
+  {
+    "periodName": "2020 рік",
+    "totalGames": 420,
+    "totalHoursPlayed": 291.25,
+    "daysInPeriod": 329,
+    "period": "2020-01-03 - 2020-11-27",
+    "results": "210 / 210",
+    "winRate": "50%",
+    "mmrChange": 0,
+    "daysPlayed": 150,
+    "avgGamesPerDay": 1.2765957446808511,
+    "avgHoursPerDay": 0.8852583586626139,
+    "avgGamesPerPlayedDay": 2.8,
+    "avgHoursPerPlayedDay": 1.9416666666666667,
+    "maxGamesPerDay": 11,
+    "maxHoursPerDay": 8.083333333333334,
+    "heroStats": [
+      {
+        "hero": "Clockwerk",
+        "gamesPlayed": 67,
+        "winRate": "57%",
+        "results": "38 / 29"
+      },
+      {
+        "hero": "Phoenix",
+        "gamesPlayed": 60,
+        "winRate": "38%",
+        "results": "23 / 37"
+      },
+      {
+        "hero": "Beastmaster",
+        "gamesPlayed": 59,
+        "winRate": "64%",
+        "results": "38 / 21"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 37,
+        "winRate": "51%",
+        "results": "19 / 18"
+      },
+      {
+        "hero": "Mars",
+        "gamesPlayed": 24,
+        "winRate": "42%",
+        "results": "10 / 14"
+      }
+    ]
+  }
+]
