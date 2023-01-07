@@ -19,8 +19,10 @@ public class StatsController {
     public List<DotaStats> dotaStats() {
         return dotaStatsService.getStats(
                 List.of(
-                        new StatsPeriod("Після повернення до доти", LocalDate.of(2022, Month.AUGUST, 12),
-                                LocalDate.of(2022, Month.AUGUST, 31)),
+                        new StatsPeriod("З Нового Року", LocalDate.of(2023, Month.JANUARY, 1),
+                                LocalDate.now()),
+                        new StatsPeriod("Після переходу в анранкед", LocalDate.of(2022, Month.OCTOBER, 9),
+                                LocalDate.now()),
                         new StatsPeriod("З від'їзду дівчат", LocalDate.of(2022, Month.MARCH, 15),
                                 LocalDate.now()),
                         new StatsPeriod("З початку року", LocalDate.of(2022, Month.JANUARY, 1),
