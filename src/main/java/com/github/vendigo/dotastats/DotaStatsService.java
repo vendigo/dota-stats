@@ -85,7 +85,7 @@ public class DotaStatsService {
             .findFirst()
             .orElseGet(LocalDate::now);
         String playingPeriod = startDate + " - " + endDate;
-        int daysInPeriod = (int) ChronoUnit.DAYS.between(startDate, endDate);
+        int daysInPeriod = (int) ChronoUnit.DAYS.between(startDate, endDate) + 1;
 
         int daysPlayed = (int) games.stream()
             .map(DotaGameRecord::getDate)

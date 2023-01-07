@@ -1,47 +1,47 @@
 [
   {
-    "periodName": "Після повернення до доти",
-    "totalGames": 24,
-    "totalHoursPlayed": 17.6,
-    "daysInPeriod": 17,
-    "period": "2022-08-13 - 2022-08-30",
-    "results": "14 / 10",
-    "winRate": "58%",
+    "periodName": "З Нового Року",
+    "totalGames": 10,
+    "totalHoursPlayed": 7.616666666666666,
+    "daysInPeriod": 5,
+    "period": "2023-01-02 - 2023-01-06",
+    "results": "7 / 3",
+    "winRate": "70%",
     "mmrChange": 120,
-    "daysPlayed": 13,
-    "avgGamesPerDay": 1.411764705882353,
-    "avgHoursPerDay": 1.035294117647059,
-    "avgGamesPerPlayedDay": 1.8461538461538463,
-    "avgHoursPerPlayedDay": 1.353846153846154,
-    "maxGamesPerDay": 3,
-    "maxHoursPerDay": 2.216666666666667,
+    "daysPlayed": 5,
+    "avgGamesPerDay": 2.0,
+    "avgHoursPerDay": 1.5233333333333332,
+    "avgGamesPerPlayedDay": 2.0,
+    "avgHoursPerPlayedDay": 1.5233333333333332,
+    "maxGamesPerDay": 2,
+    "maxHoursPerDay": 1.7666666666666666,
     "heroStats": [
       {
-        "hero": "Beastmaster",
-        "gamesPlayed": 4,
-        "winRate": "50%",
-        "results": "2 / 2"
+        "hero": "Slardar",
+        "gamesPlayed": 2,
+        "winRate": "100%",
+        "results": "2 / 0"
       },
       {
-        "hero": "Clockwerk",
-        "gamesPlayed": 3,
+        "hero": "Kunkka",
+        "gamesPlayed": 1,
+        "winRate": "100%",
+        "results": "1 / 0"
+      },
+      {
+        "hero": "Drow Ranger",
+        "gamesPlayed": 1,
         "winRate": "0%",
-        "results": "0 / 3"
+        "results": "0 / 1"
       },
       {
-        "hero": "Shadow Shaman",
-        "gamesPlayed": 2,
-        "winRate": "100%",
-        "results": "2 / 0"
+        "hero": "Magnus",
+        "gamesPlayed": 1,
+        "winRate": "0%",
+        "results": "0 / 1"
       },
       {
-        "hero": "Necrophos",
-        "gamesPlayed": 2,
-        "winRate": "100%",
-        "results": "2 / 0"
-      },
-      {
-        "hero": "Viper",
+        "hero": "Juggernaut",
         "gamesPlayed": 1,
         "winRate": "100%",
         "results": "1 / 0"
@@ -49,149 +49,198 @@
     ]
   },
   {
+    "periodName": "Після переходу в анранкед",
+    "totalGames": 108,
+    "totalHoursPlayed": 75.03333333333333,
+    "daysInPeriod": 90,
+    "period": "2022-10-09 - 2023-01-06",
+    "results": "59 / 49",
+    "winRate": "55%",
+    "mmrChange": 300,
+    "daysPlayed": 57,
+    "avgGamesPerDay": 1.2,
+    "avgHoursPerDay": 0.8337037037037037,
+    "avgGamesPerPlayedDay": 1.894736842105263,
+    "avgHoursPerPlayedDay": 1.316374269005848,
+    "maxGamesPerDay": 5,
+    "maxHoursPerDay": 3.85,
+    "heroStats": [
+      {
+        "hero": "Oracle",
+        "gamesPlayed": 4,
+        "winRate": "75%",
+        "results": "3 / 1"
+      },
+      {
+        "hero": "Medusa",
+        "gamesPlayed": 4,
+        "winRate": "50%",
+        "results": "2 / 2"
+      },
+      {
+        "hero": "Shadow Shaman",
+        "gamesPlayed": 3,
+        "winRate": "67%",
+        "results": "2 / 1"
+      },
+      {
+        "hero": "Phantom Assassin",
+        "gamesPlayed": 3,
+        "winRate": "33%",
+        "results": "1 / 2"
+      },
+      {
+        "hero": "Necrophos",
+        "gamesPlayed": 3,
+        "winRate": "67%",
+        "results": "2 / 1"
+      }
+    ]
+  },
+  {
     "periodName": "З від'їзду дівчат",
-    "totalGames": 192,
-    "totalHoursPlayed": 133.71666666666667,
-    "daysInPeriod": 168,
-    "period": "2022-03-15 - 2022-08-30",
-    "results": "103 / 89",
-    "winRate": "54%",
-    "mmrChange": 420,
-    "daysPlayed": 71,
-    "avgGamesPerDay": 1.1428571428571428,
-    "avgHoursPerDay": 0.7959325396825397,
-    "avgGamesPerPlayedDay": 2.704225352112676,
-    "avgHoursPerPlayedDay": 1.8833333333333333,
+    "totalGames": 350,
+    "totalHoursPlayed": 241.91666666666666,
+    "daysInPeriod": 298,
+    "period": "2022-03-15 - 2023-01-06",
+    "results": "183 / 167",
+    "winRate": "52%",
+    "mmrChange": 480,
+    "daysPlayed": 153,
+    "avgGamesPerDay": 1.174496644295302,
+    "avgHoursPerDay": 0.8118008948545861,
+    "avgGamesPerPlayedDay": 2.287581699346405,
+    "avgHoursPerPlayedDay": 1.5811546840958606,
     "maxGamesPerDay": 8,
     "maxHoursPerDay": 5.333333333333333,
     "heroStats": [
       {
         "hero": "Clockwerk",
-        "gamesPlayed": 29,
-        "winRate": "52%",
-        "results": "15 / 14"
+        "gamesPlayed": 35,
+        "winRate": "51%",
+        "results": "18 / 17"
       },
       {
         "hero": "Timbersaw",
-        "gamesPlayed": 24,
-        "winRate": "42%",
-        "results": "10 / 14"
+        "gamesPlayed": 26,
+        "winRate": "38%",
+        "results": "10 / 16"
       },
       {
         "hero": "Mars",
-        "gamesPlayed": 20,
-        "winRate": "35%",
-        "results": "7 / 13"
+        "gamesPlayed": 24,
+        "winRate": "38%",
+        "results": "9 / 15"
       },
       {
         "hero": "Beastmaster",
-        "gamesPlayed": 14,
-        "winRate": "71%",
-        "results": "10 / 4"
+        "gamesPlayed": 18,
+        "winRate": "72%",
+        "results": "13 / 5"
       },
       {
-        "hero": "Axe",
-        "gamesPlayed": 12,
-        "winRate": "83%",
-        "results": "10 / 2"
+        "hero": "Necrophos",
+        "gamesPlayed": 15,
+        "winRate": "67%",
+        "results": "10 / 5"
       }
     ]
   },
   {
     "periodName": "З початку року",
-    "totalGames": 261,
-    "totalHoursPlayed": 183.48333333333332,
-    "daysInPeriod": 240,
-    "period": "2022-01-02 - 2022-08-30",
-    "results": "140 / 121",
-    "winRate": "54%",
-    "mmrChange": 570,
-    "daysPlayed": 100,
-    "avgGamesPerDay": 1.0875,
-    "avgHoursPerDay": 0.7645138888888888,
-    "avgGamesPerPlayedDay": 2.61,
-    "avgHoursPerPlayedDay": 1.834833333333333,
+    "totalGames": 419,
+    "totalHoursPlayed": 291.68333333333334,
+    "daysInPeriod": 370,
+    "period": "2022-01-02 - 2023-01-06",
+    "results": "220 / 199",
+    "winRate": "53%",
+    "mmrChange": 630,
+    "daysPlayed": 182,
+    "avgGamesPerDay": 1.1324324324324324,
+    "avgHoursPerDay": 0.7883333333333333,
+    "avgGamesPerPlayedDay": 2.302197802197802,
+    "avgHoursPerPlayedDay": 1.6026556776556777,
     "maxGamesPerDay": 8,
     "maxHoursPerDay": 5.333333333333333,
     "heroStats": [
       {
         "hero": "Clockwerk",
-        "gamesPlayed": 43,
+        "gamesPlayed": 49,
         "winRate": "51%",
-        "results": "22 / 21"
+        "results": "25 / 24"
       },
       {
         "hero": "Timbersaw",
-        "gamesPlayed": 29,
-        "winRate": "41%",
-        "results": "12 / 17"
+        "gamesPlayed": 31,
+        "winRate": "39%",
+        "results": "12 / 19"
       },
       {
         "hero": "Mars",
-        "gamesPlayed": 25,
-        "winRate": "36%",
-        "results": "9 / 16"
+        "gamesPlayed": 29,
+        "winRate": "38%",
+        "results": "11 / 18"
       },
       {
         "hero": "Beastmaster",
-        "gamesPlayed": 17,
+        "gamesPlayed": 21,
         "winRate": "71%",
-        "results": "12 / 5"
+        "results": "15 / 6"
       },
       {
-        "hero": "Axe",
-        "gamesPlayed": 14,
-        "winRate": "71%",
-        "results": "10 / 4"
+        "hero": "Necrophos",
+        "gamesPlayed": 18,
+        "winRate": "67%",
+        "results": "12 / 6"
       }
     ]
   },
   {
     "periodName": "Від покупки компа",
-    "totalGames": 353,
-    "totalHoursPlayed": 250.5,
-    "daysInPeriod": 297,
-    "period": "2021-11-06 - 2022-08-30",
-    "results": "180 / 173",
+    "totalGames": 511,
+    "totalHoursPlayed": 358.7,
+    "daysInPeriod": 427,
+    "period": "2021-11-06 - 2023-01-06",
+    "results": "260 / 251",
     "winRate": "51%",
-    "mmrChange": 210,
-    "daysPlayed": 136,
-    "avgGamesPerDay": 1.1885521885521886,
-    "avgHoursPerDay": 0.8434343434343434,
-    "avgGamesPerPlayedDay": 2.5955882352941178,
-    "avgHoursPerPlayedDay": 1.8419117647058822,
+    "mmrChange": 270,
+    "daysPlayed": 218,
+    "avgGamesPerDay": 1.1967213114754098,
+    "avgHoursPerDay": 0.8400468384074942,
+    "avgGamesPerPlayedDay": 2.3440366972477062,
+    "avgHoursPerPlayedDay": 1.6454128440366973,
     "maxGamesPerDay": 8,
     "maxHoursPerDay": 5.333333333333333,
     "heroStats": [
       {
         "hero": "Clockwerk",
-        "gamesPlayed": 56,
+        "gamesPlayed": 62,
         "winRate": "52%",
-        "results": "29 / 27"
-      },
-      {
-        "hero": "Timbersaw",
-        "gamesPlayed": 35,
-        "winRate": "40%",
-        "results": "14 / 21"
+        "results": "32 / 30"
       },
       {
         "hero": "Mars",
-        "gamesPlayed": 34,
+        "gamesPlayed": 38,
+        "winRate": "39%",
+        "results": "15 / 23"
+      },
+      {
+        "hero": "Timbersaw",
+        "gamesPlayed": 37,
         "winRate": "38%",
-        "results": "13 / 21"
+        "results": "14 / 23"
       },
       {
         "hero": "Beastmaster",
-        "gamesPlayed": 24,
-        "winRate": "67%",
-        "results": "16 / 8"
+        "gamesPlayed": 28,
+        "winRate": "68%",
+        "results": "19 / 9"
       },
       {
         "hero": "Necrophos",
-        "gamesPlayed": 20,
-        "winRate": "50%",
-        "results": "10 / 10"
+        "gamesPlayed": 25,
+        "winRate": "52%",
+        "results": "13 / 12"
       }
     ]
   },
@@ -199,14 +248,14 @@
     "periodName": "Від народження доньки до від'їзду",
     "totalGames": 362,
     "totalHoursPlayed": 256.1,
-    "daysInPeriod": 345,
+    "daysInPeriod": 346,
     "period": "2021-04-02 - 2022-03-13",
     "results": "166 / 196",
     "winRate": "46%",
     "mmrChange": -900,
     "daysPlayed": 163,
-    "avgGamesPerDay": 1.0492753623188407,
-    "avgHoursPerDay": 0.7423188405797102,
+    "avgGamesPerDay": 1.046242774566474,
+    "avgHoursPerDay": 0.7401734104046244,
     "avgGamesPerPlayedDay": 2.2208588957055215,
     "avgHoursPerPlayedDay": 1.5711656441717792,
     "maxGamesPerDay": 5,
@@ -248,14 +297,14 @@
     "periodName": "Playkey",
     "totalGames": 309,
     "totalHoursPlayed": 215.93333333333334,
-    "daysInPeriod": 274,
+    "daysInPeriod": 275,
     "period": "2021-02-03 - 2021-11-04",
     "results": "142 / 167",
     "winRate": "46%",
     "mmrChange": -750,
     "daysPlayed": 138,
-    "avgGamesPerDay": 1.1277372262773722,
-    "avgHoursPerDay": 0.7880778588807786,
+    "avgGamesPerDay": 1.1236363636363635,
+    "avgHoursPerDay": 0.7852121212121213,
     "avgGamesPerPlayedDay": 2.239130434782609,
     "avgHoursPerPlayedDay": 1.5647342995169082,
     "maxGamesPerDay": 6,
@@ -297,14 +346,14 @@
     "periodName": "2020 рік",
     "totalGames": 420,
     "totalHoursPlayed": 291.25,
-    "daysInPeriod": 329,
+    "daysInPeriod": 330,
     "period": "2020-01-03 - 2020-11-27",
     "results": "210 / 210",
     "winRate": "50%",
     "mmrChange": 0,
     "daysPlayed": 150,
-    "avgGamesPerDay": 1.2765957446808511,
-    "avgHoursPerDay": 0.8852583586626139,
+    "avgGamesPerDay": 1.2727272727272727,
+    "avgHoursPerDay": 0.8825757575757576,
     "avgGamesPerPlayedDay": 2.8,
     "avgHoursPerPlayedDay": 1.9416666666666667,
     "maxGamesPerDay": 11,
